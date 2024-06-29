@@ -10,7 +10,7 @@ BooksNotesは、Amazon Kindleのハイライトを自動でインポートし、
 
 ## ダウンロード
 
-[![App Storeからダウンロード](https://linkmaker.itunes.apple.com/assets/shared/badges/ja-jp/appstore-lrg.svg)](https://apps.apple.com/jp/app/booksnotes-%E8%AA%AD%E6%9B%B8%E3%83%8E%E3%83%BC%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id6503668417)
+[![App Storeからダウンロード](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/jp/app/booksnotes-%E8%AA%AD%E6%9B%B8%E3%83%8E%E3%83%BC%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id6503668417)
 
 [![Google Playからダウンロード](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.booksnotes)
 
