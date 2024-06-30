@@ -1,3 +1,8 @@
+---
+layout: default
+title: BooksNotes
+---
+
 # BooksNotes - 読書ノートアプリ
 
 ## 読書ノートをスマートに管理
